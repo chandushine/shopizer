@@ -10,3 +10,9 @@ master.txt
 master2.txt
 rel.2txt
 rel.txt
+dev.txt
+dummyfile.txt
+master.txt
+master2.txt
+rel.2txt
+rel.txt
